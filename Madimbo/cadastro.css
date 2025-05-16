@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: #f1f1f1;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -45,7 +45,7 @@ body {
     width: 100%;
     max-width: 400px;
     margin: auto;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255 255 255);
     padding: 40px;
     border-radius: 12px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -113,14 +113,14 @@ footer img {
   display: inline-block;
   padding: 12px 24px;
   background: linear-gradient black;
-  color:black;
+  color: #e2e2e2;
   font-size: 16px;
   font-weight: 600;
   text-decoration: none;
   border-radius: 8px;
-  box-shadow: 0 4px 12px black;
   transition: all 0.3s ease;
   text-align: center;
+  background-color: #252525;
 }
 
 .botao-estilizado:hover {
